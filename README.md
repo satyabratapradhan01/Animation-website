@@ -27,5 +27,5 @@ An engaging, animated, and interactive website for **Sidcup Family Golf**, built
 
 ---
 
-## 📁 Folder Structure
+
 
